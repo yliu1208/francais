@@ -12,6 +12,7 @@
 12. Vous faites des versements libres, et a la fin de l’année, on calcule les intérêts. **Pour le moment**, **ils sont de** 3,2%. 
 13. Comment est-ce que ça marche? How does it work? 
 14. Vous pouvez retirer **de l'argent** quand vous voulez! / Vous ne pouvez pas retirer **d'argent** avant cinq ans. 
+https://french.kwiziq.com/revision/grammar/the-partitive-article-in-negative-sentences  
 15. un dépliant 折叠式简介，折叠式说明书
 16. ce prospectus
 17. une grève de train
@@ -25,3 +26,5 @@
 25. un passeport ou un permis de conduire
 26. remplir = completer
 27. par prélèvement automatique 通过自动划账
+28. Je vous remercie. 
+29. Je vous en remercie par avance. 
