@@ -17,3 +17,11 @@
 17. une grève de train
 18. le remboursement ou l’échange des billets
 19. vos billets ne sont ni échangeables, ni remboursables. 
+20. Monsieur, je ne peux rien faire. C'est comme ca!
+21. un formulaire = un papier = un document administratif
+22. s'inscrire a un club
+23. une carte d’étudiant
+24. une carte d’identité
+25. un passeport ou un permis de conduire
+26. remplir = completer
+27. par prélèvement automatique 通过自动划账
