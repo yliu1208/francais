@@ -31,4 +31,4 @@ la souris d'ordinateur: 鼠标
 l'écran: 屏幕  
 le pot à crayons 
 l'étagère: the shelf  
-*Il s'assoit sur/entre un banc.* He sits on a bench.     
+*Il s'assoit sur un banc.* He sits on a bench.     
