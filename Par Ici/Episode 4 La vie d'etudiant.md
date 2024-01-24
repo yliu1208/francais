@@ -11,3 +11,16 @@ Je veux aménager **mes horaires de travail**. 我想调整我作时间。
 se rencontrer:  
 
 disponible: available  
+
+il est interdit de manger dans la classe.  
+il est obligatoire d'arriver au cours a l'heure.  
+il est permis de prendre une pause  
+
+D'abord  
+Autre chose, ...  
+Pour terminer   
+
+Elle travaille du vendredi au dimanche.  
+On travaille du lundi au vendredi. We work from Monday to Friday.   
+
+Il est en congé du 12 au 19 mai.  
